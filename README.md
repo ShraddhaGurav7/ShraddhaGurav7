@@ -9,7 +9,7 @@
 <p align="center">
 AI | Machine Learning | Generative AI Engineer
 </p>
-🚀 **AI | Machine Learning | Generative AI Engineer**
+
 🎓 MSc Data Science @ Symbiosis
 
 ---
