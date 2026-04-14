@@ -12,7 +12,6 @@ AI | Machine Learning | Generative AI Engineer
 <p align="center">
 🎓 MSc Data Science @ Symbiosis
 </p>
----
 
 ## 💫 About Me
 
