@@ -1,7 +1,10 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer" />
 
-# Hi 👋, I'm Shraddha Gurav
+<h1 align="center">Hi 👋, I'm Shraddha Gurav</h1>
 
+<p align="center">
+AI | Machine Learning | Generative AI Engineer
+</p>
 🚀 **AI | Machine Learning | Generative AI Engineer**
 🎓 MSc Data Science @ Symbiosis
 
@@ -9,13 +12,12 @@
 
 ## 💫 About Me
 
-I build **end-to-end AI systems** using Machine Learning, NLP, and Large Language Models (LLMs).
-Focused on solving real-world problems through **automation, intelligent systems, and scalable AI applications**.
+I build **end-to-end AI systems** using Machine Learning, NLP, and LLMs.  
+Focused on solving real-world problems through automation and intelligent systems.
 
-* 🔭 Working on: **LLM + RAG Applications**
-* 🌱 Learning: **Advanced RAG & AI Agents**
-* 💡 Interested in: **GenAI, NLP, AI Systems**
-* ⚡ Fun fact: I turn ideas into working AI products
+- 🔭 Working on: LLM + RAG Applications  
+- 🌱 Learning: Advanced RAG & AI Agents  
+- ⚡ Built AI systems improving efficiency by ~25%  
 
 ---
 
@@ -46,10 +48,36 @@ Focused on solving real-world problems through **automation, intelligent systems
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack  
+
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,react,django,fastapi,tensorflow,pytorch,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,react,django,fastapi,tensorflow,pytorch,mysql,git,github" />
 </p>
+
+## 🚀 Featured Projects  
+
+### 🧠 AI Resume Builder  
+Full-stack AI system using Django + React + LLM  
+✔ Resume generation  
+✔ ATS scoring  
+✔ Grammar correction  
+
+---
+
+### 🔍 RAG Resume Assistant  
+✔ FAISS + embeddings  
+✔ Context-aware responses  
+✔ Reduced hallucination  
+
+---
+
+### 📄 AI Document Automation  
+✔ NLP-based instruction parsing  
+✔ Bulk document automation  
+
+
+---
+
 
 ### 👩‍💻 Languages
 
@@ -77,9 +105,9 @@ Power BI | Excel | Pandas | NumPy
 
 ![](https://github-readme-stats.vercel.app/api?username=ShraddhaGurav7&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaGurav7&layout=compact&theme=radical)
-
 ![](https://streak-stats.demolab.com/?user=ShraddhaGurav7&theme=radical)
+
+
 ---
 
 ## 🌐 Connect With Me
