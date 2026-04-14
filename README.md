@@ -8,9 +8,10 @@
 
 <p align="center">
 AI | Machine Learning | Generative AI Engineer
+🎓 MSc Data Science @ Symbiosis
 </p>
 
-🎓 MSc Data Science @ Symbiosis
+
 
 ---
 
