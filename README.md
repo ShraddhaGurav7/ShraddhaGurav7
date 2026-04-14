@@ -7,12 +7,11 @@
 <h1 align="center">Hi 👋, I'm Shraddha Gurav</h1>
 
 <p align="center">
-AI | Machine Learning | Generative AI Engineer
+AI | Machine Learning | Generative AI Engineer 
+</p>
+<p align="center">
 🎓 MSc Data Science @ Symbiosis
 </p>
-
-
-
 ---
 
 ## 💫 About Me
