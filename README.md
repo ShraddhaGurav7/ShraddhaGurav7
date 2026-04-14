@@ -1,3 +1,5 @@
+<img src="https://readme-typing-svg.herokuapp.com?color=F70000&size=25&center=true&vCenter=true&width=500&lines=AI+Engineer;Machine+Learning+Engineer;Generative+AI+Developer" />
+
 # Hi 👋, I'm Shraddha Gurav
 
 🚀 **AI | Machine Learning | Generative AI Engineer**
@@ -45,6 +47,9 @@ Focused on solving real-world problems through **automation, intelligent systems
 ---
 
 ## 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,react,django,fastapi,tensorflow,pytorch,mysql,git,github,vscode" />
+</p>
 
 ### 👩‍💻 Languages
 
@@ -68,14 +73,13 @@ Power BI | Excel | Pandas | NumPy
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=ShraddhaGurav7\&show_icons=true\&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=ShraddhaGurav7&show_icons=true&theme=radical)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaGurav7\&layout=compact\&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShraddhaGurav7&layout=compact&theme=radical)
 
-![](https://streak-stats.demolab.com/?user=ShraddhaGurav7\&theme=radical)
-
+![](https://streak-stats.demolab.com/?user=ShraddhaGurav7&theme=radical)
 ---
 
 ## 🌐 Connect With Me
